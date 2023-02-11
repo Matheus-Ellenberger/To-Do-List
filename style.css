@@ -57,9 +57,38 @@ body {
     margin: 10px 0px;
     border-radius: 10px;
     cursor: pointer;
+    margin-bottom: 40px;
 }
 
 #btnAdd:hover {
     transition: all ease .3s;
     background-color: #2a7247;
+}
+
+#listTodo li {
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    width: 400px;
+    padding: 0px 8px;
+    height: 40px;
+    background-color: #ffffff4f;
+    margin-top: 20px;
+}
+
+.btnAcao {
+    width: 30px;
+    height: 30px;
+    border: 0;
+    margin: 0px 3px;
+    border-radius: 10px;
+    background-color: #ffffff5a;
+}
+
+.btnAcao:hover {
+    transition: all ease .3s;
+    background-color: #ffffffa5;
+    cursor: pointer;
 }
