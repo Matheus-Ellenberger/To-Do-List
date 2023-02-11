@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 🛠️ Serviços
 
 - <a href="https://github.com/Matheus-Ellenberger">GitHub</a> - Hospedagem
-- <a href="fontawesome.com">Font Awesome</a> - Icones
+- <a href="https://fontawesome.com/">Font Awesome</a> - Icones
 
 <br>
 
